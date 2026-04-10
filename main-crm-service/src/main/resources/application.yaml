@@ -76,9 +76,7 @@ edue:
         url: jdbc:mysql://127.0.0.1:3306/journal_db?useSSL=false&allowPublicKeyRetrieval=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Kolkata
         driverClassName: com.mysql.jdbc.Driver
         username: root
-        password: 
-      Hyderabad:
-        
+        password:         
 
 management:
   endpoints:
